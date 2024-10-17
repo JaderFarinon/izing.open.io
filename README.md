@@ -2,19 +2,7 @@
 
 [Fork do projeto ldurans](https://github.com/ldurans/izing.open.io)
 
-# Izing com painel SaaS - Hub NotificaMe(facebook e instagram) 
 
-Preço especial por canal NotificaMe chamar whatsapp (48) 99941-6725
-
-Um sistema para gestão de atendimento multicanais centralizado.
-
-usuario Painel SaaS: super@izing.io senha: 123456
-
-usuario normal: admin@izing.io senha: 123456
-
-**IMPORTANTE**: não garantimos que a utilização desta ferramenta não irá gerar bloqueio nas contas utilizadas. São bots que em sua maioria utilizam APIs secundarias para comunicação com os fornecedores dos serviços. Use com responsabilidade!
-
-<br/>
 
 ## Principais funcionalidades
 
