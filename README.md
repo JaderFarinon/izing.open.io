@@ -13,12 +13,6 @@
 
 ## Instalando
 Seguem links sugerimos:
--  [Como Instalar o IZING AAPANEL -  Video](https://www.youtube.com/watch?v=pw5KMtdVw0s)
--  [Como Instalar o IZING - Video](https://youtu.be/-Woqu4W5Zzs?si=jcZYX3yPL60XkAd)
--  [Como Instalar o IZING - Video opção 2](https://youtu.be/bZ-jXRtcGyc?si=B8oQxv0V0V36fgrF)
-
--  [Como Instalar o IZING VPS - Texto - UBUNTU 20, 22](docs/INSTALL_VPS_UBUNTU_20_22.md)
-
 -  [Instalador automatico IZING LOCALHOST](https://github.com/cleitonme/izing.local)
 -  [Instalador automatico](https://github.com/cleitonme/izing.instalador)
 <br/>
