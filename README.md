@@ -1,8 +1,3 @@
-[![Grupo do WhatsApp](https://img.shields.io/badge/WhatsApp-Grupo%20IZING-brightgreen.svg)](https://chat.whatsapp.com/IIReEheixAx27ZbneHpskP)
-
-[Fork do projeto ldurans](https://github.com/ldurans/izing.open.io)
-
-
 
 ## Principais funcionalidades
 
